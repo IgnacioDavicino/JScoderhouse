@@ -1,21 +1,21 @@
 [
   {
-    "precio": 500,
+    "precio": 25,
     "id": 1,
     "title": "Lechuga"
   },
   {
-    "precio": 300,
+    "precio": 100,
     "id": 2,
     "title": "Tomate"
   },
   {
-    "precio": 100,
+    "precio": 75,
     "id": 3,
     "title": "Queso"
   },
   {
-    "precio": 50,
+    "precio": 200,
     "id": 4,
     "title": "Carne"
   }

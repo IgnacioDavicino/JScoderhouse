@@ -1,13 +1,17 @@
-/* Hamburguesa */
+
 main{
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
 }
 
-.botones ul{
- list-style: none;
-}
+
+
+
+/* Hamburguesa */
+
+
+
 
 
 .burgerbuilder{
@@ -142,6 +146,8 @@ main{
 /* BOTON */
 
 
+
+
 button {
   padding: 1.3em 3em;
   font-size: 12px;
@@ -164,13 +170,7 @@ button {
   color: #fff;
   transform: translateY(-7px);
  }
- 
- .quitarProducto:hover{
-  background-color: red;
-  box-shadow: 0px 15px 20px rgba(red, red, red, 0.4);
-  color: #fff;
-  transform: translateY(-7px);
- }
+
  
  button:active {
   transform: translateY(-1px);
